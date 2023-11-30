@@ -15,29 +15,29 @@
         "filename": "../../setup/setup.md"
       },
       {
-        "title": "Lab 2: Getting started with JavaScript and JSON Duality features of Oracle Database and OpenAI",
+        "title": "Lab 2: Create A Pipeline",
         "filename": "../../json/json.md"
       },
       {
-        "title": "Lab 3: OpenAI chat and OCI Vision Service: interpret health test results and recommended steps for everyday individuals",
+        "title": "Lab 3: Build The Application",
         "filename": "../../ocivision-openaichat/ocivision-openaichat.md"
       },
       {
-        "title": "Lab 4: OpenAI image generation and OCI Speech Service: create webpages and storyboards using only voice commands for individuals with impaired motor control",
+        "title": "Lab 4: Runtime Pipeline Tests",
         "filename": "../../ocivision-openaidalle/ocivision-openaidalle.md"
       },
       {
-        "title": "Lab 5: OpenAI conversation/chat and OCI Vision Service and OCI Speech Service: detect objects in an image and write a sentence using those objects, including sentiment generation and analysis as an educational tool",
+        "title": "Lab 5: Access Oracle Cloud Database From Your Application",
         "filename": "../../ocivision-ocispeech-openaichat/ocivision-ocispeech-openaichat.md"
       },
-      {
-        "title": "Lab 6: Mixed Reality and Vision AI: the names of objects in a person's surroundings are spoken out to them from the spatial location where they are located for individuals that are hearing impaired or have Alzheimer’s",
-        "filename": "../../ocivision-mixedreality/ocivision-mixedreality.md"
-      },
-      {
-        "title": "Lab 7: Alternatives to OpenAI",
-        "filename": "../../openai-alternatives/openai-alternatives.md"
-      },
+//      {
+//        "title": "Lab 6: Mixed Reality and Vision AI: the names of objects in a person's surroundings are spoken out to them from the spatial location where they are located for individuals that are hearing impaired or have Alzheimer’s",
+//        "filename": "../../ocivision-mixedreality/ocivision-mixedreality.md"
+//      },
+//      {
+//        "title": "Lab 7: Alternatives to OpenAI",
+//        "filename": "../../openai-alternatives/openai-alternatives.md"
+//      },
       {
         "title": "Lab 8: Tear Down",
         "filename": "../../teardown/teardown.md"

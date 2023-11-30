@@ -2,24 +2,23 @@
 
 ## About this Workshop
 
-This workshop will help you understand the technical capabilities and use cases of Oracle Database and AI Services
- such as Vision AI, Speech AI, and Language AI 
-in conjunction with Open AI (and other, open source, AI) to better compare and understand possible use case solutions.
+This workshop will help you understand, build, test, and deploy an multi-cloud application using Azure Pipelines and Oracle Cloud Database
 
-Estimated Workshop Time: 60 minutes
+Estimated Workshop Time: 90 minutes
 
 ###About Product/Technology
 
-Open AI (as well as other open source AI) used together with Oracle Database and AI services will be demonstrated.
+https://azure.microsoft.com/en-us/products/devops
+https://azure.microsoft.com/en-us/products/devops/pipelines
 
 ###Objectives
 
-- Learn about Oracle support for AI solutions demonstrated with use cases for the better good.
+- Learn about Azure Pipelines and how to create an application that runs on Azure and connects to Oracle Cloud Database 
+Will follow https://learn.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops and additionally 
 
 ### Prerequisites
 
-- An Oracle Free 23c instance can be used locally though Oracle AI services require a cloud account 
-- and of course any other services such as Open AI require accounts there.
+- An Oracle Cloud Infrastructure acount and Azure account.
 
 ### Let's Get Started
 
