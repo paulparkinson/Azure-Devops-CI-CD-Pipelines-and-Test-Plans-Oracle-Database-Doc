@@ -27,7 +27,15 @@
         "filename": "../../ocivision-openaidalle/ocivision-openaidalle.md"
       },
       {
-        "title": "Lab 5: Access Oracle Cloud Database From Your Application",
+        "title": "Lab 5: Add OraOperator for Oracle Database Provisioning",
+        "filename": "../../ocivision-ocispeech-openaichat/ocivision-ocispeech-openaichat.md"
+      },
+      {
+        "title": "Lab 6: Configure Oracle Database Interconnect",
+        "filename": "../../ocivision-ocispeech-openaichat/ocivision-ocispeech-openaichat.md"
+      },
+      {
+        "title": "Lab 7: Access Oracle Cloud Database From Your Application",
         "filename": "../../ocivision-ocispeech-openaichat/ocivision-ocispeech-openaichat.md"
       },
 //      {
