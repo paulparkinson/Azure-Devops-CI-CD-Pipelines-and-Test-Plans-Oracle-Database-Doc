@@ -38,14 +38,6 @@
         "title": "Lab 7: Access Oracle Cloud Database From Your Application",
         "filename": "../../ocivision-ocispeech-openaichat/ocivision-ocispeech-openaichat.md"
       },
-//      {
-//        "title": "Lab 6: Mixed Reality and Vision AI: the names of objects in a person's surroundings are spoken out to them from the spatial location where they are located for individuals that are hearing impaired or have Alzheimer’s",
-//        "filename": "../../ocivision-mixedreality/ocivision-mixedreality.md"
-//      },
-//      {
-//        "title": "Lab 7: Alternatives to OpenAI",
-//        "filename": "../../openai-alternatives/openai-alternatives.md"
-//      },
       {
         "title": "Lab 8: Tear Down",
         "filename": "../../teardown/teardown.md"
